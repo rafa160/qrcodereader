@@ -1,8 +1,8 @@
 # This is a generated file; do not edit or check into version control.
-camera=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera-0.10.2\\
-camera_android=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera_android-0.10.2+2\\
-camera_avfoundation=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera_avfoundation-0.9.10+1\\
-camera_web=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera_web-0.3.1\\
+camera=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera-0.10.3\\
+camera_android=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera_android-0.10.4\\
+camera_avfoundation=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera_avfoundation-0.9.11\\
+camera_web=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\camera_web-0.3.1+1\\
 flutter_plugin_android_lifecycle=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_plugin_android_lifecycle-2.0.7\\
 google_mlkit_barcode_scanning=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\google_mlkit_barcode_scanning-0.5.0\\
 google_mlkit_commons=C:\\Users\\35193\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\google_mlkit_commons-0.2.0\\

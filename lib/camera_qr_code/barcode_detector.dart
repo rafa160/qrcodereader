@@ -18,7 +18,7 @@ class BarcodeDetectorPainter extends CustomPainter {
   void paint(Canvas canvas, Size size) {
     final Paint paint = Paint()
       ..style = PaintingStyle.stroke
-      ..strokeWidth = 3.0
+      ..strokeWidth = 4.0
       ..color = Colors.blue;
 
     final Paint background = Paint()..color = const Color(0x99000000);
